@@ -6,17 +6,17 @@
 
 ![](images\2021-12-14-12-13-26-image.png)
 
-![](https://github.com/stanshi2016/PCLLearning/blob/main/images\2021-12-14-12-14-11-image.png)
+![](https://github.com/stanshi2016/PCLLearning/blob/main/images/2021-12-14-12-14-11-image.png)
 
-![](https://github.com/stanshi2016/PCLLearning/blob/main/images\2021-12-14-22-44-27-image.png)
+![](https://github.com/stanshi2016/PCLLearning/blob/main/images/2021-12-14-22-44-27-image.png)
 
 进行窗口设计
 
-![](https://github.com/stanshi2016/PCLLearning/blob/main/images\2021-12-14-22-46-04-image.png)
+![](https://github.com/stanshi2016/PCLLearning/blob/main/images/2021-12-14-22-46-04-image.png)
 
-![](https://github.com/stanshi2016/PCLLearning/blob/main/images\2021-12-14-22-47-17-image.png)
+![](https://github.com/stanshi2016/PCLLearning/blob/main/images/2021-12-14-22-47-17-image.png)
 
-![](https://github.com/stanshi2016/PCLLearning/blob/main/images\2021-12-14-22-54-19-image.png)
+![](https://github.com/stanshi2016/PCLLearning/blob/main/images/2021-12-14-22-54-19-image.png)
 
 main.cpp
 
@@ -35,8 +35,8 @@ int main(int argc, char *argv[])
 
 编译代码
 
-![](https://github.com/stanshi2016/PCLLearning/blob/main/images\2021-12-14-23-06-46-image.png)
+![](https://github.com/stanshi2016/PCLLearning/blob/main/images/2021-12-14-23-06-46-image.png)
 
-![](https://github.com/stanshi2016/PCLLearning/blob/main/images\2021-12-14-23-07-45-image.png)
+![](https://github.com/stanshi2016/PCLLearning/blob/main/images/2021-12-14-23-07-45-image.png)
 
-![](https://github.com/stanshi2016/PCLLearning/blob/main/images\2021-12-14-23-32-45-image.png)
+![](https://github.com/stanshi2016/PCLLearning/blob/main/images/2021-12-14-23-32-45-image.png)
