@@ -18,28 +18,23 @@
 
 ![](https://github.com/stanshi2016/PCLLearning/blob/main/images/2021-12-14-13-08-54-image.png)
 
-C:\Program Files\PCL 1.11.1\include\pcl-1.11
-C:\Program Files\PCL 1.11.1\3rdParty\Boost\include\boost-1_74
-C:\Program Files\PCL 1.11.1\3rdParty\Eigen\eigen3
-C:\Program Files\PCL 1.11.1\3rdParty\FLANN\include
-C:\Program Files\PCL 1.11.1\3rdParty\Qhull\include
-C:\Program Files\PCL 1.11.1\3rdParty\VTK\include\vtk-8.2
-C:\Program Files\PCL 1.11.1\3rdParty\OpenNI2\Include
+C:\Program Files\PCL 1.11.1\include\pcl-1.11;
+C:\Program Files\PCL 1.11.1\3rdParty\Boost\include\boost-1_74;
+C:\Program Files\PCL 1.11.1\3rdParty\Eigen\eigen3;
+C:\Program Files\PCL 1.11.1\3rdParty\FLANN\include;
+C:\Program Files\PCL 1.11.1\3rdParty\Qhull\include;
+C:\Program Files\PCL 1.11.1\3rdParty\VTK\include\vtk-8.2;
+C:\Program Files\PCL 1.11.1\3rdParty\OpenNI2\Include;
 
 ### 3.2 配置[库目录]
 
 ![](https://github.com/stanshi2016/PCLLearning/blob/main/images/2021-12-14-13-16-28-image.png)
 
 C:\Program Files\PCL 1.11.1\3rdParty\Boost\lib;
-
 C:\Program Files\PCL 1.11.1\3rdParty\Qhull\lib;
-
 C:\Program Files\PCL 1.11.1\3rdParty\FLANN\lib;
-
 C:\Program Files\PCL 1.11.1\3rdParty\VTK\lib;
-
 C:\Program Files\PCL 1.11.1\lib;
-
 C:\Program Files\OpenNI2\Lib;
 
 ### 3.3 配置附加依赖项
